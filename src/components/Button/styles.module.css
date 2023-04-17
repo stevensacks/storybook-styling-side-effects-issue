@@ -1,0 +1,5 @@
+.primary {
+    @apply border-green-900 bg-green-800;
+    @apply hover:border-green-800 hover:bg-green-700;
+    @apply active:border-green-900 active:bg-green-900;
+}
